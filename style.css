@@ -65,3 +65,13 @@ body{
 .caption:hover{
     text-shadow: 1px 1px 10px rgba(0, 0, 0, 0.253);
 }
+
+
+footer{
+    display: flex;
+    margin: 1rem;
+    font-family: monospace;
+    color: rgb(158, 163, 163);
+    opacity: 80%;
+}
+
